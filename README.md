@@ -5,7 +5,8 @@
 
 #### Usage
 1. git clone https://github.com/jerrykuku/openwrt-nanopi-r1s-h5.git 到本地
-2. 将下载下来的目录覆盖到lean 源码（目录已经对应） 可以直接cp -r 同时记住给target\linux\sunxi\base-files\etc\board.d\01_leds 赋予可执行权限 0755
+2. 将下载下来的目录覆盖到lean 源码（目录已经对应） 可以直接cp -r 
+同时记住给target\linux\sunxi\base-files\etc\board.d\01_leds 赋予可执行权限 0755
 3. 执行make menuconfig
 4. target 选择 nanopi r1s h5
 5. make -j1 V=s
