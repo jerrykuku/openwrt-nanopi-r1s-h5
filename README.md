@@ -1,7 +1,7 @@
-### openwrt-nanopi-r1s-h5 移植Nanopi r1s h5 到openwrt
+### openwrt-nanopi-r1s-h5 移植openwrt 到 Nanopi r1s h5 
 
 #### Intro
-此项目是移植Nanopi r1s h5 到openwrt （非friendlyWRT） 适配lean openwrt
+此项目是移植openwrt（非friendlyWRT）到  Nanopi r1s h5  适配lean openwrt
 
 #### Usage
 1. git clone https://github.com/jerrykuku/openwrt-nanopi-r1s-h5.git 到本地
