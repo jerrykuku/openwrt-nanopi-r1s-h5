@@ -2,7 +2,7 @@
 
 #### Intro
 此项目是移植openwrt（非friendlyWRT）到  Nanopi r1s h5  适配lean openwrt
-
+<img src="https://raw.githubusercontent.com/jerrykuku/staff/master/Snipaste_2020-01-05_22-30-01.jpg" >
 #### Usage
 1. git clone https://github.com/jerrykuku/openwrt-nanopi-r1s-h5.git 到本地
 2. 将下载下来的目录覆盖到lean 源码（目录已经对应） 可以直接cp -r 
