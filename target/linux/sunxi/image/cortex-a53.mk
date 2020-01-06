@@ -31,7 +31,8 @@ define Device/sun50i-h5-nanopi-r1s
   DEVICE_TITLE:=Nanopi R1S (H5)
   DEVICE_PACKAGES:=kmod-rtc-sunxi \
 		kmod-leds-gpio kmod-ledtrig-heartbeat \
-		kmod-brcmfmac brcmfmac-firmware-43430-sdio wpad-basic
+		kmod-brcmfmac brcmfmac-firmware-43430-sdio wpad-basic \
+    kmod-usb-net kmod-usb-net-rtl8152
   SUPPORTED_DEVICES:=nanopi-r1s
   SUNXI_DTS:=allwinner/sun50i-h5-nanopi-r1s
   KERNEL_NAME := Image
